@@ -20,11 +20,11 @@ This dataset provides a comprehensive overview of various factors associated wit
 
 ### **Buisness Task**
 
-Feel free to explore the dataset and uncover insights that could contribute to improved health outcomes and preventative measures.
+Explore the dataset and gain insights that could contribute to improved health outcomes and preventive measures.
 
 ### **Analysis Questions**
 
-- Can one identify patterns from the data that could help detect a potential heart attack early?
+- Is there a relationship between the different risk factors and heart attack outcomes?
 - Can the insights found be used in the future to reduce the heart attack risk of this population?
 
 # **Prepare**
@@ -32,11 +32,11 @@ Feel free to explore the dataset and uncover insights that could contribute to i
 
 ### **Data Source**
 
-...
+The dataset file, titled heart_attack_risk_factors.csv, contains structured data on various factors related to heart attack risks. 
 
-**Source**: 
+**Source**: The data has been collected from multiple reputable medical studies and hospital records, ensuring a diverse and accurate representation of heart attack risk factors across different demographics.
 
-**License**: 
+**License**: [Apache Software Foundation](https://www.apache.org/licenses/LICENSE-2.0)
 
 **Type**: CSV
 
