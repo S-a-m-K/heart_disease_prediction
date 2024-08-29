@@ -42,7 +42,7 @@ The dataset file, titled heart_attack_risk_factors.csv, contains structured data
 
 **Format**: Long Data
 
-**Duration**: 
+**Duration**: Not specified
 
 <div style="margin-bottom: 40px;">
 
