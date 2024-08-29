@@ -76,42 +76,42 @@ Excel: []()
 ### Observations:
 
 1. The table below shows all columns
+<img width="141" alt="image" src="https://github.com/user-attachments/assets/cb694187-8fe2-4c4c-97ec-f8962e1cc046">
+
+3. Count number of rows
+<img width="96" alt="image" src="https://github.com/user-attachments/assets/1ce044cd-5d9e-4fc3-9bab-3e3e5ab933ba">
+
+4. Checking for numbers of null values and i find some in this 4 rows
 ...
 
-2. Count number of rows
+5. Checking for dublicate rows
 ...
 
-3. Checking for numbers of null values and i find some in this 4 rows
+6. Checking if ride_id has a length of 16
 ...
 
-4. Checking for dublicate rows
+7. Checking if timestamp values all have the same length
 ...
 
-5. Checking if ride_id has a length of 16
+8. Checking for whitespace and find 161 rows
 ...
 
-6. Checking if timestamp values all have the same length
+9. Count number of trips per bike
 ...
 
-7. Checking for whitespace and find 161 rows
+10. Total trips that last longer than a day
 ...
 
-8. Count number of trips per bike
+11. Total trips that last shorter than a minute
 ...
 
-9. Total trips that last longer than a day
+12. Check if how many rows has all location details
 ...
 
-10. Total trips that last shorter than a minute
+13. Which members use which station and how many times
 ...
 
-11. Check if how many rows has all location details
-...
-
-12. Which members use which station and how many times
-...
-
-13. How many times members and casuals rent a bike
+14. How many times members and casuals rent a bike
 ...
 
 ### Data cleaning
