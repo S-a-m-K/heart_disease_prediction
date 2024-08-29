@@ -54,13 +54,13 @@ The dataset file, titled heart_attack_risk_factors.csv, contains structured data
 
 * **Original**: The dataset is sourced from a combination of clinical studies and health surveys conducted over recent years. It includes data collected from various hospitals and health clinics that have been documented in medical journals and research papers. Additionally, national health databases and public health records contribute valuable information to this dataset, ensuring a broad and comprehensive view of the condition across different demographics.
 
-* **Comprehensive**: 
+* **Comprehensive**: the data source is comprehensive and contains all the important information.
 
-* **Current**: 
+* **Current**: Expected update frequency: Never
 
-* **Cited**: 
+* **Cited**: Author Name: [Waqar Ali](https://www.kaggle.com/datasets/waqi786/heart-attack-dataset/data)
 
-* **License**: 
+* **License**: This is not personal data. Therefore, there are no data protection concerns to consider.
 
 <div style="margin-bottom: 40px;">
 
