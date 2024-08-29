@@ -50,9 +50,9 @@ The dataset file, titled heart_attack_risk_factors.csv, contains structured data
 
 ### **Confirmation of the ROCCC-Process**
 
-* **Reliable**: 
+* **Reliable**: Data collection involved a multi-step process to ensure accuracy and reliability. Using established protocols to minimize bias and ensure consistency across the dataset. The data appear to be complete and suitable for this analysis.
 
-* **Original**: 
+* **Original**: The dataset is sourced from a combination of clinical studies and health surveys conducted over recent years. It includes data collected from various hospitals and health clinics that have been documented in medical journals and research papers. Additionally, national health databases and public health records contribute valuable information to this dataset, ensuring a broad and comprehensive view of the condition across different demographics.
 
 * **Comprehensive**: 
 
