@@ -20,11 +20,12 @@ This dataset provides a comprehensive overview of various factors associated wit
 
 ### **Buisness Task**
 
-...
+Feel free to explore the dataset and uncover insights that could contribute to improved health outcomes and preventative measures.
 
 ### **Analysis Questions**
 
-...
+- Can one identify patterns from the data that could help detect a potential heart attack early?
+- Can the insights found be used in the future to reduce the heart attack risk of this population?
 
 # **Prepare**
 
