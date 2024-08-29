@@ -1,1 +1,2 @@
+=IF(COUNTIF(A1:H1001, "")>0, "Null Value", "No Null Values")
 
