@@ -68,10 +68,10 @@ The dataset file, titled heart_attack_risk_factors.csv, contains structured data
 
 # **Process**
 
-...
+Since it is a smaller dataset, I decided to do the cleaning, analysis and visualization using Excel.
 
 ### Data Exploration
-Excel: [)  
+Excel: []()  
 
 ### Observations:
 
