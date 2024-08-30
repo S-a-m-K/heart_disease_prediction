@@ -85,6 +85,7 @@ Excel: []()
 <img width="101" alt="image" src="https://github.com/user-attachments/assets/83d9cce8-b0de-4114-ac07-fec7af4bc4a1">
 
 5. Checking for dublicate rows
+
 Since the dataset does not contain any personal information about the patients, which would identify them as unique, there is no point in checking the set for duplicates.
 
 6. Checking if ride_id has a length of 16
