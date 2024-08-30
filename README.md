@@ -78,7 +78,7 @@ Excel: []()
 1. The table below shows all columns
 <img width="141" alt="image" src="https://github.com/user-attachments/assets/cb694187-8fe2-4c4c-97ec-f8962e1cc046">
 
-3. Count number of rows
+2. Count number of rows
 <img width="96" alt="image" src="https://github.com/user-attachments/assets/1ce044cd-5d9e-4fc3-9bab-3e3e5ab933ba">
 
 4. Checking for numbers of null values
@@ -88,32 +88,18 @@ Excel: []()
 
 Since the dataset does not contain any personal information about the patients, which would identify them as unique, there is no point in checking the set for duplicates.
 
-6. Checking if ride_id has a length of 16
-...
+8. Check for whitespace at the beginning oder end
 
-7. Checking if timestamp values all have the same length
-...
+Didn't find any
 
-8. Checking for whitespace and find 161 rows
-...
+10. Number of patients divided into age groups
+<img width="177" alt="image" src="https://github.com/user-attachments/assets/9abda663-259c-4a22-bd72-615e84f4cc3a">
 
-9. Count number of trips per bike
-...
+11. Count chest pain types
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/7286be74-4b4a-47cc-ab12-890fccc5ac64">
 
-10. Total trips that last longer than a day
-...
-
-11. Total trips that last shorter than a minute
-...
-
-12. Check if how many rows has all location details
-...
-
-13. Which members use which station and how many times
-...
-
-14. How many times members and casuals rent a bike
-...
+12. Number of different treatments
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/fea9338b-dacf-47a0-921d-47bd60e43850">
 
 ### Data cleaning
 
