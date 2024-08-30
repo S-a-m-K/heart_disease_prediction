@@ -93,7 +93,7 @@ Since the dataset does not contain any personal information about the patients, 
 Didn't find any
 
 10. Number of patients divided into age groups
-<img width="177" alt="image" src="https://github.com/user-attachments/assets/9abda663-259c-4a22-bd72-615e84f4cc3a">
+<img width="176" alt="image" src="https://github.com/user-attachments/assets/84da3810-721d-450c-b2eb-aa40677356af">
 
 11. Count chest pain types
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/7286be74-4b4a-47cc-ab12-890fccc5ac64">
