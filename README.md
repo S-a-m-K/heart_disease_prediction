@@ -81,11 +81,11 @@ Excel: []()
 3. Count number of rows
 <img width="96" alt="image" src="https://github.com/user-attachments/assets/1ce044cd-5d9e-4fc3-9bab-3e3e5ab933ba">
 
-4. Checking for numbers of null values and i find some in this 4 rows
-...
+4. Checking for numbers of null values
+<img width="101" alt="image" src="https://github.com/user-attachments/assets/83d9cce8-b0de-4114-ac07-fec7af4bc4a1">
 
 5. Checking for dublicate rows
-...
+Since the dataset does not contain any personal information about the patients, which would identify them as unique, there is no point in checking the set for duplicates.
 
 6. Checking if ride_id has a length of 16
 ...
