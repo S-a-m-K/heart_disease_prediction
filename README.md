@@ -1,4 +1,4 @@
-<h1>Heart Attack Risk Factors</h1> 
+<h1>Titel</h1> 
 
 **Author: Samuel Kleger**  
 **Date: 2024-08-28**
@@ -6,7 +6,7 @@
 
 # **Introduction**
 
-This dataset provides a comprehensive overview of various factors associated with heart attack risks. It includes detailed information on patients' medical history, lifestyle habits, and physiological measurements. The data has been collected from multiple reputable medical studies and hospital records, ensuring a diverse and accurate representation of heart attack risk factors across different demographics.
+...
 
 ---
 
@@ -32,11 +32,11 @@ Explore the dataset and gain insights that could contribute to improved health o
 
 ### **Data Source**
 
-The dataset file, titled heart_attack_risk_factors.csv, contains structured data on various factors related to heart attack risks. 
+...
 
-**Source**: The data has been collected from multiple reputable medical studies and hospital records, ensuring a diverse and accurate representation of heart attack risk factors across different demographics.
+**Source**: ...
 
-**License**: [Apache Software Foundation](https://www.apache.org/licenses/LICENSE-2.0)
+**License**: [](https://www.....)
 
 **Type**: CSV
 
@@ -50,17 +50,16 @@ The dataset file, titled heart_attack_risk_factors.csv, contains structured data
 
 ### **Confirmation of the ROCCC-Process**
 
-* **Reliable**: Data collection involved a multi-step process to ensure accuracy and reliability. Using established protocols to minimize bias and ensure consistency across the dataset. The data appear to be complete and suitable for this analysis.
+* **Reliable**: ...
+* **Original**: ...
 
-* **Original**: The dataset is sourced from a combination of clinical studies and health surveys conducted over recent years. It includes data collected from various hospitals and health clinics that have been documented in medical journals and research papers. Additionally, national health databases and public health records contribute valuable information to this dataset, ensuring a broad and comprehensive view of the condition across different demographics.
+* **Comprehensive**: ...
 
-* **Comprehensive**: the data source is comprehensive and contains all the important information.
+* **Current**: ...
 
-* **Current**: Expected update frequency: Never
+* **Cited**: Author Name: [](https://www....)
 
-* **Cited**: Author Name: [Waqar Ali](https://www.kaggle.com/datasets/waqi786/heart-attack-dataset/data)
-
-* **License**: This is not personal data. Therefore, there are no data protection concerns to consider.
+* **License**: ...
 
 <div style="margin-bottom: 40px;">
 
@@ -75,31 +74,7 @@ Excel: []()
 
 ### Observations:
 
-1. The table below shows all columns
-<img width="141" alt="image" src="https://github.com/user-attachments/assets/cb694187-8fe2-4c4c-97ec-f8962e1cc046">
-
-2. Count number of rows
-<img width="96" alt="image" src="https://github.com/user-attachments/assets/1ce044cd-5d9e-4fc3-9bab-3e3e5ab933ba">
-
-4. Checking for numbers of null values
-<img width="101" alt="image" src="https://github.com/user-attachments/assets/83d9cce8-b0de-4114-ac07-fec7af4bc4a1">
-
-5. Checking for dublicate rows
-
-Since the dataset does not contain any personal information about the patients, which would identify them as unique, there is no point in checking the set for duplicates.
-
-8. Check for whitespace at the beginning oder end
-
-Didn't find any
-
-10. Number of patients divided into age groups
-<img width="176" alt="image" src="https://github.com/user-attachments/assets/84da3810-721d-450c-b2eb-aa40677356af">
-
-11. Count chest pain types
-<img width="324" alt="image" src="https://github.com/user-attachments/assets/7286be74-4b4a-47cc-ab12-890fccc5ac64">
-
-12. Number of different treatments
-<img width="324" alt="image" src="https://github.com/user-attachments/assets/fea9338b-dacf-47a0-921d-47bd60e43850">
+...
 
 ### Data cleaning
 
