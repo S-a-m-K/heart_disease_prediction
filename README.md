@@ -60,16 +60,13 @@ Patients' names and social security numbers were removed from the database and r
 
 ### **Confirmation of the ROCCC-Process**
 
-* **Reliable**: ...
-* **Original**: ...
+* **Reliable and Original**: The data comes from the University of California Irvine
 
-* **Comprehensive**: ...
+* **Comprehensive**: The data sets are partially suitable for analysis. For better predictions, information such as training level and detailed cholesterol values ​​would be beneficial.
 
-* **Current**: ...
+* **Current**: The data is from 1988 and is therefore not current. Given today's level of knowledge, more information could be collected on this topic.
 
-* **Cited**: Author Name: [](https://www....)
-
-* **License**: ...
+* **Cited**: Original: [UC Irvine](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
 <div style="margin-bottom: 40px;">
 
