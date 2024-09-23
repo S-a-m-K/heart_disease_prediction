@@ -1,12 +1,12 @@
 <h1>Titel</h1> 
 
 **Author: Samuel Kleger**  
-**Date: 2024-08-28**
+**Date: 2024-09-20**
 
 
 # **Introduction**
 
-...
+This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them.
 
 ---
 
@@ -32,17 +32,25 @@ Explore the dataset and gain insights that could contribute to improved health o
 
 ### **Data Source**
 
-...
+This dataset comes from the University of California Irvine data repository and is used to predict heart disease. This database contains 76 attributes, but all published experiments involve using a subset of 14 of them. Notably, the Cleveland database is the only one used by ML researchers to date. One file has been "processed," that being the one with the Cleveland database. All four unprocessed files are also present in this directory.
 
-**Source**: ...
+A stripped down version of the dataset is available on [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data) for public use.
 
-**License**: [](https://www.....)
+**Additional information:**
+
+If a coronary artery was narrowed by more than 50%, they were assigned heart disease.
+
+Patients' names and social security numbers were removed from the database and replaced with dummy values.
+
+**Source**: Data provided by the University of California Irvine
+
+**License**: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 **Type**: CSV
 
 **Format**: Long Data
 
-**Duration**: Not specified
+**Duration**: Data is from 1988
 
 <div style="margin-bottom: 40px;">
 
