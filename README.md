@@ -77,7 +77,7 @@ Patients' names and social security numbers were removed from the database and r
 Since it is a smaller dataset, I decided to do the cleaning, analysis and visualization using Excel.
 
 ### Data Exploration
-Excel: []()  
+Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/01.%20Data%20Exploration)  
 
 ### Observations:
 
