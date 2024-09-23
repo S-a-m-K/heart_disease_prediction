@@ -62,7 +62,7 @@ Patients' names and social security numbers were removed from the database and r
 
 * **Reliable and Original**: The data comes from the University of California Irvine
 
-* **Comprehensive**: The data sets are partially suitable for analysis. For better predictions, information such as training level and detailed cholesterol values ​​would be beneficial.
+* **Comprehensive**: Some of the data sets are suitable for analysis. For better predictions, information such as weight, smoking status, exercise level and detailed cholesterol values ​​would be beneficial.
 
 * **Current**: The data is from 1988 and is therefore not current. Given today's level of knowledge, more information could be collected on this topic.
 
