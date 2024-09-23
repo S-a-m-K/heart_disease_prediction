@@ -81,7 +81,14 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 
 ### Observations:
 
-...
+Get a first look at the individual columns
+
+Check the set for zero or unrealistic values, empty cells ​​and correct information. I Found some interesting things.
+
+<img width="651" alt="image" src="https://github.com/user-attachments/assets/a57195c0-9fca-4542-be50-511123df98c1">
+
+
+
 
 ### Data cleaning
 
