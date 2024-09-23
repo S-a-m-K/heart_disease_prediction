@@ -1,4 +1,4 @@
-<h1>Titel</h1> 
+<h1>Heart Disease Prediction</h1> 
 
 **Author: Samuel Kleger**  
 **Date: 2024-09-20**
