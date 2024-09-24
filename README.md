@@ -87,7 +87,7 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 
 2. For easier understanding, I change the column names
 
-<img width="1250" alt="image" src="https://github.com/user-attachments/assets/f1a47e86-f70c-4d52-9c4a-c13724d22bf8">
+<img width="876" alt="image" src="https://github.com/user-attachments/assets/b1107a68-0db8-4137-add5-ce00c2acf720">
 
 3. Check the set for null values, empty cells and unrealistic values.
 
