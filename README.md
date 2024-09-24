@@ -82,15 +82,16 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 ### Observations:
 
 1. Get a first look at the individual columns
-
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/145aaf97-4640-44f8-97f3-e8e9c89f3214">
 
-2. For easier understanding, I change the column names
+Explanation of the columns
 
+<img width="609" alt="image" src="https://github.com/user-attachments/assets/786eb8b4-410c-4f3c-8db7-693da2e79aab">
+
+2. For easier understanding, I change the column names
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/b1107a68-0db8-4137-add5-ce00c2acf720">
 
 3. Check the set for null values, empty cells and unrealistic values.
-
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/a57195c0-9fca-4542-be50-511123df98c1">
 
 
