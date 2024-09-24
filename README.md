@@ -83,11 +83,11 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 
 1. Get a first look at the individual columns
 
-<img width="910" alt="image" src="https://github.com/user-attachments/assets/39e17b94-169b-47e2-b911-16a2138981bd">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/145aaf97-4640-44f8-97f3-e8e9c89f3214">
 
 2. For easier understanding, I change the column names
 
-<img width="1249" alt="image" src="https://github.com/user-attachments/assets/ed7ba76b-baf5-4335-9637-0db2b3107f1c">
+<img width="1250" alt="image" src="https://github.com/user-attachments/assets/f1a47e86-f70c-4d52-9c4a-c13724d22bf8">
 
 3. Check the set for null values, empty cells and unrealistic values.
 
