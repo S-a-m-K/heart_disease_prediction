@@ -81,9 +81,15 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 
 ### Observations:
 
-Get a first look at the individual columns
+1. Get a first look at the individual columns
 
-Check the set for null values, empty cells and unrealistic values.
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/39e17b94-169b-47e2-b911-16a2138981bd">
+
+2. For easier understanding, I change the column names
+
+<img width="1249" alt="image" src="https://github.com/user-attachments/assets/ed7ba76b-baf5-4335-9637-0db2b3107f1c">
+
+3. Check the set for null values, empty cells and unrealistic values.
 
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/a57195c0-9fca-4542-be50-511123df98c1">
 
