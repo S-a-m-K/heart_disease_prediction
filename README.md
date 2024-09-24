@@ -91,7 +91,11 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 3. For easier understanding, I change the column names
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/b1107a68-0db8-4137-add5-ce00c2acf720">
 
-4. Check the set for null values, empty cells and unrealistic values.
+4. Decoding cells for better communication
+![image](https://github.com/user-attachments/assets/0d68d01f-26a8-4d43-b181-f7273655d46c)
+
+
+5. Check the set for null values, empty cells and unrealistic values.
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/a57195c0-9fca-4542-be50-511123df98c1">
 
 I found no null values, no empty cells and the information seems realistic. But two columns have one additional value than specified. To analyze these columns, I will remove the rows with the unspecified cells.
