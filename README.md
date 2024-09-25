@@ -126,6 +126,7 @@ The data has been cleaned, unusable columns removed, and variables grouped into 
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/c64a94de-4733-4364-a13c-4439184be893">
 
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/bd7ba454-498c-4177-9dfd-56f44e90a3e4">
 
 
 ### Summary:
