@@ -104,8 +104,7 @@ I found no null values, no empty cells and the information seems realistic. But 
 
 Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/02.%20Data%20Cleaning.xlsx)
 
-1. Divide (blood pressure)[swissheart.ch![image](https://github.com/user-attachments/assets/2d7f50e9-3a7d-40d4-b66f-cf99dc812a55)
-] values ​​into groups
+1. Divide (blood pressure)[https://swissheart.ch/so-bleiben-sie-gesund/gesund-leben/blutdruck] values ​​into groups
    
 3. Divide cholesterol levels into groups
    
