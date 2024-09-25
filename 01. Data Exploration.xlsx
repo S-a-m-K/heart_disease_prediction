@@ -1,8 +1,94 @@
 -- Decoding cells for better communication
 
+=IF('heart disease dataset'!B2=1,"Male",
+ IF('heart disease dataset'!B2=0,"Female", "Unspecified"))
+
+=IF('heart disease dataset'!C2=0,"Typical angina",
+ IF('heart disease dataset'!C2=1,"Atypical angina",
+ IF('heart disease dataset'!C2=2,"Non anginal pain",
+ IF('heart disease dataset'!C2=3,"Asymptomatic","Unspecified"))))
+
+=IF('heart disease dataset'!F2=0,"No",IF('heart disease dataset'!F2=1,"Yes","unspecified"))
+
+=IF('heart disease dataset'!G2=0,"Normal",
+ IF('heart disease dataset'!G2=1,"ST-T wave abnormality",
+ IF('heart disease dataset'!G2=2,"Left verticular hypertrophie","Unspecified")))
+
+=IF('heart disease dataset'!I2=0,"No",
+ IF('heart disease dataset'!I2=1,"Yes","Unspecified"))
+
+=IF('heart disease dataset'!K2=0,"Upsloping",
+ IF('heart disease dataset'!K2=1,"Flat",
+ IF('heart disease dataset'!K2=2,"Downsloping","Unspecified")))
+
+=IF('heart disease dataset'!M2=0,0,
+ IF('heart disease dataset'!M2=1,"Normal",
+ IF('heart disease dataset'!M2=2,"Fixed defect",
+ IF('heart disease dataset'!M2=3,"Reversable defect","Unspecified"))))
+
+=IF('heart disease dataset'!N2=0,"No",
+ IF('heart disease dataset'!N2=1,"Yes","Unspecified"))
 
 -- check min and max age
 
 =MIN('heart disease dataset'!A:A)
 =MAX('heart disease dataset'!A:A)
 
+-- Check column sex (unspecified values) 
+
+=COUNTIF('heart disease dataset cleaning'!B:B,"Unspecified")
+
+-- Check column chest pain type (unspecified values)
+
+=COUNTIF('heart disease dataset cleaning'!C:C,"Unspecified")
+
+-- Check column blood pressure in mm Hg (empty cells, null values, min and max value)
+
+=COUNTBLANK('heart disease dataset cleaning'!D2:D1026)+
+ COUNTIF('heart disease dataset cleaning'!D2:D1026,0)
+
+=MIN('heart disease dataset cleaning'!D:D)
+=MAX('heart disease dataset cleaning'!D:D)
+
+-- Check column cholesterol (empty cells, null values, min and max value)
+
+=COUNTBLANK('heart disease dataset cleaning'!F2:F1026)+
+COUNTIF('heart disease dataset cleaning'!F2:F1026,0)
+
+=MIN('heart disease dataset cleaning'!F:F)
+=MAX('heart disease dataset cleaning'!F:F)
+
+-- Check column blood sugar (unspecified values)
+
+=COUNTIF('heart disease dataset cleaning'!H:H,"Unspecified")
+
+-- Check column Resting Electrocardiographic Results (unspecified values)
+
+=COUNTIF('heart disease dataset cleaning'!I:I,"Unspecified")
+
+-- Check column exercise induced angina (unspecified values)
+
+=COUNTIF('heart disease dataset cleaning'!J:J,"Unspecified")
+
+-- Check column st depression (empty cells, max values)
+
+=COUNTBLANK('heart disease dataset cleaning'!K2:K1026)
+=MAX('heart disease dataset cleaning'!K:K)
+
+-- Check column peak st segment (unspecified values)
+
+=COUNTIF('heart disease dataset cleaning'!L:L,"Unspecified")
+
+-- Check column num major vessel (empty cells, count unique values)
+
+=COUNTBLANK('heart disease dataset cleaning'!M2:M1026)
+=ROWS(UNIQUE('heart disease dataset cleaning'!M2:M1026))
+
+-- Check column thal (empty cells, count unique values)
+
+=COUNTIF('heart disease dataset cleaning'!N:N,"Unspecified")
+=ROWS(UNIQUE('heart disease dataset cleaning'!N2:N1026))
+
+-- Check column heart disease (unspecified values)
+
+=COUNTIF('heart disease dataset cleaning'!O:O,"Unspecified")
