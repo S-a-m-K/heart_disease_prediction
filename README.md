@@ -102,9 +102,23 @@ I found no null values, no empty cells and the information seems realistic. But 
 
 ### Data cleaning
 
-Excel: [Data cleaning]()
+Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/02.%20Data%20Cleaning.xlsx)
 
-...
+1. Divide (blood pressure)[swissheart.ch![image](https://github.com/user-attachments/assets/2d7f50e9-3a7d-40d4-b66f-cf99dc812a55)
+] values ​​into groups
+   
+3. Divide cholesterol levels into groups
+   
+5. Remove max heart frequenz - According to the Fox formula, all patients except one would have a maximum heart rate that is too high. However, since the maximum heart rate depends on many other factors than just age, such as genes, height, training level and altitude, this column is of no use. That's why I've removed it.
+   
+7. Error in the column “number of major vessels” - There is also an error in the column num_of_major_vessel. Four are described. However, there are 5 variables in the column (0-4). For the analysis with this column, I will remove the unnecessary rows. There are a total of 18 rows with 0 values that i have removed.
+   
+9. Another error with "thal" - Here too, there is one more variable than stated. For the analysis with this column, I will remove the unnecessary rows. There are a total of 7 rows with zero values ​​that I have removed.
+
+
+
+
+
 
 # **Analysing**
 
