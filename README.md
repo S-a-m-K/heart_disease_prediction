@@ -92,8 +92,7 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/b1107a68-0db8-4137-add5-ce00c2acf720">
 
 4. Decoding cells for better communication
-![image](https://github.com/user-attachments/assets/0d68d01f-26a8-4d43-b181-f7273655d46c)
-
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/8b9e12b4-30ec-4461-b319-26b5ef2c87e5">
 
 5. Check the set for null values, empty cells and unrealistic values.
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/a57195c0-9fca-4542-be50-511123df98c1">
