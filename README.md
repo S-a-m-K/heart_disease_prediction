@@ -122,7 +122,10 @@ Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/
 
 For the process "Analysing" and "Share" I chose also Excel
 
-...
+The data has been cleaned, unusable columns removed, and variables grouped into new columns for better understanding. The data is now ready for analysis and I will check to see if there are any patterns in this data that could be attributed to a possible heart disease.
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/c64a94de-4733-4364-a13c-4439184be893">
+
 
 
 ### Summary:
