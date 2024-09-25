@@ -114,24 +114,16 @@ Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/
    
 9. Another error with "thal" - Here too, there is one more variable than [stated](https://data.world/informatics-edu/heart-disease-prediction). For the analysis with this column, I will remove the unnecessary rows. There are a total of 7 rows with zero values ​​that I have removed.
 
+<div style="margin-bottom: 40px;">
 
+</div>
 
+# **Analysing and Share**
 
-
-
-# **Analysing**
-
-Excel: [Data Analysing]()
-
-...
-
-# **Share**
-
-### Data Visualization 
-
-For the analysis process "Share" I chose [Excel]().
+For the process "Analysing" and "Share" I chose also Excel
 
 ...
+
 
 ### Summary:
 
