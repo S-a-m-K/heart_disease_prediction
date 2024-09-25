@@ -1,1 +1,11 @@
+-- Divide blood pressure values ​​into groups
 
+=IF(D2<100,"Low blood pressure",IF(D2<120,"Optimal",
+ IF(D2<130,"Normal",IF(D2<140,"High normal",
+ IF(D2<160,"Mild hypertension",
+ IF(D2<180,"Moderate hypertension","Severe hypertension"))))))
+
+-- Divide cholesterol levels into groups
+
+=IF(F2<200,"normal",
+ IF(F2<239,"borderline high","hypercholesterolemia"))
