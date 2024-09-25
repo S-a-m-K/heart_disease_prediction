@@ -106,7 +106,7 @@ Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/
 
 1. Divide [blood pressure](https://swissheart.ch/so-bleiben-sie-gesund/gesund-leben/blutdruck) values ​​into groups
    
-3. Divide cholesterol levels into groups
+3. Divide [cholesterol](https://www.netdoktor.ch/laborwerte/cholesterinwerte/#:~:text=Wenn%20das%20Gesamt%2DCholesterin%20bei,6%2C21%20mmol%2Fl)) levels into groups
    
 5. Remove max heart frequenz - According to the Fox formula, all patients except one would have a maximum heart rate that is too high. However, since the maximum heart rate depends on many other factors than just age, such as genes, height, training level and altitude, this column is of no use. That's why I've removed it.
    
