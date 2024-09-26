@@ -130,6 +130,9 @@ The data has been cleaned, unusable columns removed, and variables grouped into 
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
 
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
+
+
 
 
 
