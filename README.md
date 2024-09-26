@@ -125,14 +125,27 @@ For the process "Analysing" and "Share" I chose also Excel
 The data has been cleaned, unusable columns removed, and variables grouped into new columns for better understanding. The data is now ready for analysis and I will check to see if there are any patterns in this data that could be attributed to a possible heart disease.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/c0c52f21-f24c-4b80-98c3-9038413ebacd">
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/4500d671-dc33-4e5c-b922-62e0b063d4c5">
 
+In total, this set contains data from 1025 patients with various ages from 29 to 77. Most of the patients studied are between the ages of 40 and 67. Most of the patients are 58 years old.
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/4500d671-dc33-4e5c-b922-62e0b063d4c5">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/80a8b65f-17d0-49aa-8499-8ece94511e5f">
+
+A total of 312 women and 713 men were examined. Over 72% of women were diagnosed with heart disease. For men, the figure was less than 43%.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
 
+Most of the patients with heart disease were between 40 and 45 and between 51 and 54. However, the results could be different if the age groups were more balanced. The patients who were not diagnosed with heart disease were mostly between the ages of 57 and 63.
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
+
+The percentage breakdown provides a better overview. But even in this view, the highest values ​​for a disease are between 41 and 45 and between 51 and 54.
+
+Between 46 and 50 it seems fairly balanced. Between 55 and 63 the numbers for a disease are the lowest. Between 64 and 66 it is more balanced again.
+
+From the age of 68 onwards, the number of patients who were examined is too small to make a clear statement. The same applies to patients aged 29 to 40. In this range too, there were not even half as many.
 
 
 
