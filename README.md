@@ -124,9 +124,12 @@ For the process "Analysing" and "Share" I chose also Excel
 
 The data has been cleaned, unusable columns removed, and variables grouped into new columns for better understanding. The data is now ready for analysis and I will check to see if there are any patterns in this data that could be attributed to a possible heart disease.
 
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/c64a94de-4733-4364-a13c-4439184be893">
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/c0c52f21-f24c-4b80-98c3-9038413ebacd">
 
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/184cf955-fecc-49e7-8ff5-bb681784392a">
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/06a4979e-a96a-41b0-8f86-68baa039b369">
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
+
 
 
 
