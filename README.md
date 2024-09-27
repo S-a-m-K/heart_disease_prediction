@@ -155,7 +155,9 @@ Of the patients with typical anginal chest pain, about 1/4 also suffered from he
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/ef9f1fc1-e0c5-444a-8534-582d4ae896b2">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/8116c2ae-ea04-4b0e-89c9-9bb17f678afb">
 
+Broken down by gender, over 40% of women with typical angina chest pain have heart disease. For the other types of chest pain, the probability of heart disease is between 78 and 100 percent.
 
+For men, it is not quite as devastating. For typical anginal chest pain, it is comparatively only 17%. But the probability of heart disease also increases dramatically with the other types of chest pain. There the probability is between 59 and 76 percent.
 
 ### Summary:
 
