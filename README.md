@@ -153,7 +153,7 @@ From the age of 68 onwards, the number of patients who were examined is too smal
 Of the patients with typical anginal chest pain, about 1/4 also suffered from heart disease. In atypical anginal pain, over 80% were diagnosed with heart disease. In non-anginal pain, over 77% had heart disease and in asymptomatic pain, it was 2/3.
 
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/ef9f1fc1-e0c5-444a-8534-582d4ae896b2">
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/ba0a22f6-5be0-4f5a-acea-a75584a0bb73">
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/8116c2ae-ea04-4b0e-89c9-9bb17f678afb">
 
 
 
