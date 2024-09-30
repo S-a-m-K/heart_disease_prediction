@@ -169,6 +169,13 @@ If you look at the patients' blood sugar, the result is rather sobering. Both pa
 
 blablabla
 
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/5cb939c8-8d97-4537-a3bf-389ab6a30516">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/64d2fe8b-35ce-4804-8e62-724778fc76be">
+
+blablabla
+
+
+
 ### Summary:
 
 ...
