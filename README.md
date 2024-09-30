@@ -162,11 +162,12 @@ For men, it is not quite as devastating. For typical anginal chest pain, it is c
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/46a65b70-6884-4210-92b7-936bb1ea67d7">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/6b805c16-da65-447e-8c77-2d616992b9b6">
 
-
 If you look at the patients' blood sugar, the result is rather sobering. Both parties are equally affected. There are also no significant differences between the sexes. Except that women with normal blood sugar levels seem to be more likely to suffer from heart disease. High blood sugar levels alone do not seem to provide any clear predictions.
 
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/976df669-4e24-4ae6-b187-ab126c3f4b1d">
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/bbeb5fb2-bb74-4c18-b8e3-aabc048d1033">
 
-
+blablabla
 
 ### Summary:
 
