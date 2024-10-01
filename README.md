@@ -161,13 +161,15 @@ Broken down by gender, over 40% of women with typical angina chest pain have hea
 
 For men, it is not quite as devastating. For typical anginal chest pain, it is comparatively only 17%. But the probability of heart disease also increases dramatically with the other types of chest pain. There the probability is between 59 and 76 percent.
 
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/46a65b70-6884-4210-92b7-936bb1ea67d7">
-<img width="910" alt="image" src="https://github.com/user-attachments/assets/6b805c16-da65-447e-8c77-2d616992b9b6">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/0dc2a689-0942-491f-9a6d-ce9f98c2b8e5">
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/8e1d3749-9679-40b9-9569-837f9b9caaeb">
 
 If you look at the patients' blood sugar, the result is rather sobering. Both parties are equally affected. There are also no significant differences between the sexes. Except that women with normal blood sugar levels seem to be more likely to suffer from heart disease. High blood sugar levels alone do not seem to provide any clear predictions.
 
-<img width="910" alt="image" src="https://github.com/user-attachments/assets/976df669-4e24-4ae6-b187-ab126c3f4b1d">
-<img width="908" alt="image" src="https://github.com/user-attachments/assets/bbeb5fb2-bb74-4c18-b8e3-aabc048d1033">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/3009d70c-d2e9-4883-b967-eb93748a4fd5">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/0c5eaf10-9332-41aa-8503-c9c0f571a3e7">
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/eb2f7689-225a-4239-9974-41e54a55e46f">
+
 
 blablabla
 
