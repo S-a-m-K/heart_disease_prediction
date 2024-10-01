@@ -147,13 +147,15 @@ Between 46 and 50 it seems fairly balanced. Between 55 and 63 the numbers for a 
 
 From the age of 68 onwards, the number of patients who were examined is too small to make a clear statement. The same applies to patients aged 29 to 40. In this range too, there were not even half as many.
 
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/f3e5db6e-2826-4026-b3a9-f3835a940867">
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/7372857d-8206-4ca8-99d7-e3593ed205af">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/42a9d376-2c96-4c5b-a077-5735c5275c92">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/a6db1803-07e3-45e9-bdec-906bdc409258">
+
 
 Of the patients with typical anginal chest pain, about 1/4 also suffered from heart disease. In atypical anginal pain, over 80% were diagnosed with heart disease. In non-anginal pain, over 77% had heart disease and in asymptomatic pain, it was 2/3.
 
-<img width="908" alt="image" src="https://github.com/user-attachments/assets/ef9f1fc1-e0c5-444a-8534-582d4ae896b2">
-<img width="909" alt="image" src="https://github.com/user-attachments/assets/8116c2ae-ea04-4b0e-89c9-9bb17f678afb">
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/a3c7a220-054a-4021-b825-bc49d463b9fc">
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/180eb463-5410-48df-b8d2-e244b735f1b3">
+
 
 Broken down by gender, over 40% of women with typical angina chest pain have heart disease. For the other types of chest pain, the probability of heart disease is between 78 and 100 percent.
 
