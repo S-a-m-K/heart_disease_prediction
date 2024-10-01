@@ -173,10 +173,18 @@ If you look at the patients' blood sugar, the result is rather sobering. Both pa
 
 blablabla
 
-<img width="908" alt="image" src="https://github.com/user-attachments/assets/5cb939c8-8d97-4537-a3bf-389ab6a30516">
-<img width="910" alt="image" src="https://github.com/user-attachments/assets/64d2fe8b-35ce-4804-8e62-724778fc76be">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/9436f946-aee7-48ef-9c2e-dfa6d76090e8">
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/466b0165-9541-4fb2-865d-cfb547b8e852">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/bd041879-dee2-4213-96ea-3f4b6733008f">
 
 blablabla
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/f07babee-75ad-4e0f-9ba6-dba8d7d8893a">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/965e26e4-e218-413c-ac08-dc02a6313faa">
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/6260e667-84f8-42ca-a64d-e2bb3fd300c4">
+
+Electrocardiogramm blablabla
+
 
 
 
