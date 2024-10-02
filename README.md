@@ -202,7 +202,15 @@ ST Depression
 
 Peak ST Segment
 
+---
+---
 
+Num Major Vessel
+
+---
+---
+
+Thallium
 
 ### Summary:
 
