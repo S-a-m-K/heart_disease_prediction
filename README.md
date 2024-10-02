@@ -202,8 +202,8 @@ ST Depression
 
 Peak ST Segment
 
----
----
+<img width="867" alt="image" src="https://github.com/user-attachments/assets/c441cdc9-0e81-4167-b416-26f2b3232fce">
+
 
 Num Major Vessel
 
