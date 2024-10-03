@@ -124,7 +124,7 @@ For the process "Analysing" and "Share" I chose also Excel
 
 The data has been cleaned, unusable columns removed, and variables grouped into new columns for better understanding. The data is now ready for analysis and I will check to see if there are any patterns in this data that could be attributed to a possible heart disease.
 
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/8860283b-4f31-4522-ab2a-57ee75a2df4b">
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/7b15bf60-3115-485f-95b5-546fbe9d8f70">
 
 In total, this set contains data from 1025 patients with various ages from 29 to 77. Most of the patients studied are between the ages of 40 and 67. Most of the patients are 58 years old.
 
