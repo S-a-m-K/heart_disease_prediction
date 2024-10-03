@@ -170,8 +170,11 @@ If you look at the patients' blood sugar, the result is rather sobering. Both pa
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0c5eaf10-9332-41aa-8503-c9c0f571a3e7">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/eb2f7689-225a-4239-9974-41e54a55e46f">
 
+Blood pressure alone does not seem to provide a clear prediction. All patients with low blood pressure are classified as having heart disease. But due to the small number, this is not really meaningful. Most patients with severe hypertension do not have heart disease. But here too, the number is too small to make a precise statement.
 
-blablabla
+In general, it seems that the number of heart diseases decreases the higher the blood pressure rises.
+
+I also did not find any significant differences when breaking down the sexes.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/9436f946-aee7-48ef-9c2e-dfa6d76090e8">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/466b0165-9541-4fb2-865d-cfb547b8e852">
