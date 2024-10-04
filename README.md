@@ -186,7 +186,7 @@ The first thing that is noticeable here is that most patients have high choleste
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/965e26e4-e218-413c-ac08-dc02a6313faa">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/6260e667-84f8-42ca-a64d-e2bb3fd300c4">
 
-A diagnostic resting EKG (electrocardiogram) records the electrical activity of your heart while you are at rest. It provides information about your heart rate and rhythm and can also show whether there is enlargement of the heart or signs of a previous heart attack.
+A diagnostic resting EKG (electrocardiogram) records the electrical activity of your heart while you are at rest. It provides information about your heart rate and rhythm and can also show whether there is enlargement of the heart or signs of a previous heart attack[(Ascot Cardiology Group)](https://ascotcardiologygroup.co.nz/services/diagnostic-resting-ecg/#:~:text=What%20is%20a%20Diagnostic%20Resting,of%20a%20previous%20heart%20attack.).
 
 An ST-T abnormality on an electrocardiogram (ECG) is known to independently predict subsequent morbidity and mortality from cardiovascular diseases. But how ST-T abnormality develops in relation to chronologic changes in cardiovascular risk factors has not been fully discussed [(National Library of Medicine)](https://pubmed.ncbi.nlm.nih.gov/8623733/#:~:text=An%20ST%2DT%20abnormality%20on,has%20not%20been%20fully%20discussed.). 
 
