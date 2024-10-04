@@ -192,6 +192,12 @@ An ST-T abnormality on an electrocardiogram (ECG) is known to independently pred
 
 Left ventricular hypertrophy is a thickening of the wall of the heart's main pumping chamber, called the left ventricle. This thickening can increase pressure inside the heart. The disease can make it harder for the heart to pump blood. The most common cause is high blood pressure[(Mayo Clinic)](https://www.mayoclinic.org/diseases-conditions/left-ventricular-hypertrophy/symptoms-causes/syc-20374314#:~:text=Left%20ventricular%20hypertrophy%20is%20a,cause%20is%20high%20blood%20pressure.).
 
+Over 60% of patients who had an ST-T abnormality on the ECG were diagnosed with heart disease.
+
+20% of patients with left ventricular hypertrophy were classified as having heart disease. It should be noted that only 15 patients had this condition. A more detailed analysis would require many more patients.
+
+But even 40% of patients in whom nothing unusual was found still suffered from heart disease. This shows that this examination alone is not sufficiently informative.
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/799d00d2-6864-4978-8351-21c8d2f69652">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/1f56a82b-abb8-4e10-84a1-e38b87c39916">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a6ef4ed0-3d09-4302-8d2c-25fae5f35aba">
