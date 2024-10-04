@@ -186,7 +186,11 @@ The first thing that is noticeable here is that most patients have high choleste
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/965e26e4-e218-413c-ac08-dc02a6313faa">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/6260e667-84f8-42ca-a64d-e2bb3fd300c4">
 
-blablabla Electrocardiogramm
+A diagnostic resting EKG (electrocardiogram) records the electrical activity of your heart while you are at rest. It provides information about your heart rate and rhythm and can also show whether there is enlargement of the heart or signs of a previous heart attack.
+
+An ST-T abnormality on an electrocardiogram (ECG) is known to independently predict subsequent morbidity and mortality from cardiovascular diseases. But how ST-T abnormality develops in relation to chronologic changes in cardiovascular risk factors has not been fully discussed [National library of medicine](https://pubmed.ncbi.nlm.nih.gov/8623733/#:~:text=An%20ST%2DT%20abnormality%20on,has%20not%20been%20fully%20discussed.). 
+
+Left ventricular hypertrophy is a thickening of the wall of the heart's main pumping chamber, called the left ventricle. This thickening can increase pressure inside the heart. The disease can make it harder for the heart to pump blood. The most common cause is high blood pressure.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/799d00d2-6864-4978-8351-21c8d2f69652">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/1f56a82b-abb8-4e10-84a1-e38b87c39916">
