@@ -126,7 +126,7 @@ The data has been cleaned, unusable columns removed, and variables grouped into 
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/7b15bf60-3115-485f-95b5-546fbe9d8f70">
 
-In total, this set contains data from 1025 patients with various ages from 29 to 77. Most of the patients studied are between the ages of 40 and 67. Most of the patients are 58 years old.
+In total, this set contains data from 1025 patients with various ages from 29 to 77. Most of the patients studied are between the ages of 40 and 67. Most are 58 years old.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
