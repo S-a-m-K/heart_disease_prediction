@@ -202,7 +202,9 @@ But even 40% of patients in whom nothing unusual was found still suffered from h
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/1f56a82b-abb8-4e10-84a1-e38b87c39916">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a6ef4ed0-3d09-4302-8d2c-25fae5f35aba">
 
-blablabla Angina Pectoris
+Angina pectoris also does not seem to be a good indicator of early signs of heart disease. In fact, it seems to be the opposite. Only 20% of those who have angina were classified as having heart disease.
+
+When it comes to gender, there is a difference between men and women. For women, it is over 32% and for men, just 17%.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/57daebd0-316a-403d-876a-5a90407158f9">
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/9d0f42bd-4977-40ec-9fc9-7f1785bf0fd0">
