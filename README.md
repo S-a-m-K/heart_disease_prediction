@@ -236,7 +236,31 @@ By far the majority of treatments were carried out on Major Vessel 0. The treatm
 
 ### Summary:
 
-...
+In summary, according to these studies, the following people are more likely to suffer from heart disease:
+
+- People aged between 40 and 45 and between 51 and 54. Ultimately, women and men of all ages are affected, but the peak is highest in these age groups.
+
+- Women are more affected than men. Namely 72%. For men, it is 43%.
+
+- Patients with typical anginal chest pain only suffer from heart disease in just under 25% of cases compared to other types of chest pain. For the other types of heart pain, the probability increases to between 66 and 80%.
+
+- Even with typical anginal pain, over 43% of women suffer from heart disease. For men, it is just under 18%.
+
+- The comparison with blood sugar levels does not seem to provide a clear prediction. Very few patients had values ​​that were too high.
+
+- We do not get any clear results for blood pressure either. It actually seems that the rate of heart disease decreases with increasing blood pressure.
+
+- Most patients have higher cholesterol levels. But overall, no significant differences can be found. Men with higher levels appear to be less affected.
+
+- The resting electrocardiogram, on the other hand, provides better results. 60% with an ST T-wave abnormality were classified as having heart disease. Patients with left ventricular hypertrophy appear to be less affected.
+
+- Angina pectoris, on the other hand, is not a clear indicator. But this was already established when comparing the types of heart pain.
+
+- The ST depression values ​​do not provide satisfactory results either, since most patients with heart disease did not show any fluctuation.
+
+- The course of the ST segment appears to provide a clearer prediction. Over 70% with a downsloping course have heart disease.
+
+- Vessel 0 was the most affected. The treatment was largely successful.
 
 # **Act**
 
