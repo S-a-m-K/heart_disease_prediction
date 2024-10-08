@@ -211,6 +211,12 @@ When it comes to gender, there is a difference between men and women. For women,
 
 ST depression occurs when the J point is displaced below baseline. Just like ST elevation, not all ST depression represents myocardial ischemia or an emergent condition. There are multiple conditions associated with ST depression. Some of these include hypokalemia, cardiac ischemia, and medications such as digitalis[(National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK459364/#:~:text=ST%20depression%20occurs%20when%20the,and%20medications%20such%20as%20digitalis.)
 
+Over 32% of patients were not diagnosed with ST depression. But over 1/3 of them were classified as having heart disease.
+
+The percentage view shows that most patients with heart disease are in the first half of the scale. There are a few outliers, but they are not particularly significant.
+
+This comparison alone does not provide any clear results either.
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0e443d35-318e-4aa5-af8d-a4709e8ed285">
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/e21a42c6-7e71-4340-9d06-e321aca113f8">
 
