@@ -22,7 +22,7 @@ The data is from 1988 and consists of four databases: Cleveland, Hungary, Switze
   - [Confirmation of the ROCCC-Process](#Confirmation-of-the-ROCCC-Process)
 - [Process](#Process)
   - [Data Exploration](#Data-Exploration)
-  - [Observation](#Observation)
+  - [Observations](#Observations)
   - [Data Cleaning](#Data-Cleaning)
 - [Analysing and Share](#Analysing-and-Share)
   - [Summary](#Summary)
