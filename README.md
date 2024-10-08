@@ -264,4 +264,10 @@ In summary, according to these studies, the following people are more likely to 
 
 # **Act**
 
-...
+I would recommend an early routine check-up for the following people:
+
+- People over the age of 40
+- Women are particularly affected
+- If non-typical anginal pain occurs
+- For women, it is also recommended for typical anginal chest pain
+- If people are connected to an ECG, a downsloping course of the peak ST segment could indicate a heart condition
