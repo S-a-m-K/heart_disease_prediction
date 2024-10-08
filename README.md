@@ -226,6 +226,8 @@ The ST segment on an electrocardiogram (ECG) normally represents an electrically
 
 The ST segment encompasses the region between the end of ventricular depolarization and beginning of ventricular repolarization on the ECG. In other words, it corresponds to the area from the end of the QRS complex to the beginning of the T wave. In clinical terms, the ST segment represents the period in which the myocardium maintains contraction to expel blood from the ventricles[(National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK459364/#:~:text=ST%20depression%20occurs%20when%20the,and%20medications%20such%20as%20digitalis.). 
 
+This model provides somewhat clearer results. Over 70% with a downsloping course also had heart disease. For the flat and upsloping course, the figure was between 30 and 40%. It should be noted that only 7.2% had an upsloping course.
+
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/1ae60a14-9dbf-4d8a-9466-95dcef42a849">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/53cd69cf-3842-43bb-9f54-5cb26ff72cd7">
 
