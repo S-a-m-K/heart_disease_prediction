@@ -209,7 +209,9 @@ When it comes to gender, there is a difference between men and women. For women,
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/57daebd0-316a-403d-876a-5a90407158f9">
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/9d0f42bd-4977-40ec-9fc9-7f1785bf0fd0">
 
-blablabla ST Depression
+ST depression occurs when the J point is displaced below baseline. Just like ST elevation, not all ST depression represents myocardial ischemia or an emergent condition. There are multiple conditions associated with ST depression. Some of these include hypokalemia, cardiac ischemia, and medications such as digitalis.
+
+
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0e443d35-318e-4aa5-af8d-a4709e8ed285">
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/e21a42c6-7e71-4340-9d06-e321aca113f8">
