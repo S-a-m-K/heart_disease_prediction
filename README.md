@@ -217,6 +217,8 @@ The percentage view shows that most patients with heart disease are in the first
 
 This comparison alone does not provide any clear results either.
 
+Perhaps we will find clearer results if we look at the ST segment and the resulting course of the wave.
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0e443d35-318e-4aa5-af8d-a4709e8ed285">
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/e21a42c6-7e71-4340-9d06-e321aca113f8">
 
