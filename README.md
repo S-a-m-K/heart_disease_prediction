@@ -19,12 +19,15 @@ The data is from 1988 and consists of four databases: Cleveland, Hungary, Switze
   - [Business Task](#Business-Task)
 - [Prepare](#Prepare)
   - [Data Source](#Data-Source)
-  - [Additional Information](#Additional-Information)
   - [Confirmation of the ROCCC-Process](#Confirmation-of-the-ROCCC-Process)
 - [Process](#Process)
   - [Data Exploration](#Data-Exploration)
   - [Observation](#Observation)
-- [](#)
+  - [Data Cleaning](#Data-Cleaning)
+- [Analysing and Share](#Analysing-and-Share)
+  - [Summary](#Summary)
+- [Act](#Act)
+
 ---
 
 # **Ask**
