@@ -232,8 +232,7 @@ This model provides somewhat clearer results. Over 70% with a downsloping course
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/53cd69cf-3842-43bb-9f54-5cb26ff72cd7">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/f9c398fa-251b-454a-83f8-e078b612a4d7">
 
-
-blablabla Num Major Vessel and Thallium
+By far the majority of treatments were carried out on Major Vessel 0. The treatment was successful in over 56% of the heart patients. In over 11% it was reversible.
 
 ### Summary:
 
