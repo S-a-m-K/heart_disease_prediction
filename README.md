@@ -29,7 +29,7 @@ The data is from 1988 and consists of four databases: Cleveland, Hungary, Switze
 
 # **Ask**
 
-### **Buisness Task**
+### **Business Task**
 
 Explore the dataset and gain insights that could contribute to improved health outcomes and preventive measures.
 
