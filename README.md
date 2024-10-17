@@ -1,4 +1,4 @@
-![Banner](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/heart%20disease%20prediction.png)
+![Banner](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/heart%20disease%20prediction%2002.png)
 
 <h1>Heart Disease Prediction</h1> 
 
