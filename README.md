@@ -1,3 +1,5 @@
+![Banner](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/heart%20disease%20prediction.png)
+
 <h1>Heart Disease Prediction</h1> 
 
 **Author: Samuel Kleger**  
