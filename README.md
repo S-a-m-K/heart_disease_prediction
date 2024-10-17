@@ -36,12 +36,13 @@ The data is from 1988 and consists of four databases: Cleveland, Hungary, Switze
 
 ### **Business Task**
 
-Explore the dataset and gain insights that could contribute to improved health outcomes and preventive measures.
+Examine the dataset to gain insights that could aid in developing preventive measures for heart disease.
 
 ### **Analysis Questions**
 
-- Is there a relationship between the different risk factors and heart attack outcomes?
-- Can the insights found be used in the future to reduce the heart attack risk of this population?
+- Is there a relationship between the various risk factors and heart attack outcomes?
+- Can the insights gained be used in the future to reduce heart attack risk in this population?
+
 
 # **Prepare**
 
