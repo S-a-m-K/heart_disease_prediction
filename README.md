@@ -51,7 +51,7 @@ Examine the dataset to gain insights that could aid in developing preventive mea
 
 ### **Data Source**
 
-This dataset, sourced from the University of California Irvine data repository, is used for predicting heart disease. It contains 76 attributes, though all published studies focus on a subset of 14. Notably, the Cleveland database is the only one extensively used by machine learning researchers so far. While one processed file (the Cleveland database) is available, all four original unprocessed files are also included in this directory. 
+This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them.
 
 A simplified version of the dataset is also publicly accessible on [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data).
 
