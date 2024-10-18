@@ -271,10 +271,10 @@ In summary, the following groups are more likely to suffer from heart disease ac
 
 # **Act**
 
-I would recommend an early routine check-up for the following people:
+I recommend an early routine examination for the following groups of people:
 
-- People over the age of 40
-- Women are particularly affected
-- If non-typical anginal pain occurs
-- For women, it is also recommended for typical anginal chest pain
-- If people are connected to an ECG, a downsloping course of the peak ST segment could indicate a heart condition
+* Individuals over 40 years of age
+* Women, who are particularly affected
+* Individuals experiencing atypical angina pain
+* Women with typical angina chest pain
+* Individuals connected to an ECG, especially if a downsloaping course of the ST peak is observed, as this may indicate a potential heart condition.
