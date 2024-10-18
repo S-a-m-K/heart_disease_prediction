@@ -135,32 +135,32 @@ Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/
 
 # **Analysing and Share**
 
-For the process "Analysing" and "Share" I chose also Excel
+For the data visualization process "Analysing" and "Share" I use also Excel
 
-The data has been cleaned, unusable columns removed, and variables grouped into new columns for better understanding. The data is now ready for analysis and I will check to see if there are any patterns in this data that could be attributed to a possible heart disease.
+The data has been cleaned, unusable columns removed, and variables grouped into new columns for better clarity. The data is now ready for analysis, and I will investigate whether there are any patterns that could indicate a potential risk of heart disease.
 
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/7b15bf60-3115-485f-95b5-546fbe9d8f70">
 
-In total, this set contains data from 1025 patients with various ages from 29 to 77. Most of the patients studied are between the ages of 40 and 67. Most are 58 years old.
+This dataset contains information from a total of 1,025 patients, with ages ranging from 29 to 77. The majority of the patients are between 40 and 67 years old, with the most common age being 58.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
 
-Most of the patients with heart disease were between 40 and 45 and between 51 and 54. However, the results could be different if the age groups were more balanced. The patients who were not diagnosed with heart disease were mostly between the ages of 57 and 63.
+Most patients diagnosed with heart disease were between the ages of 40 and 45, as well as between 51 and 54. However, the results might differ if the age groups were more balanced. In contrast, the majority of patients who were not diagnosed with heart disease were aged between 57 and 63.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
 
-The percentage breakdown provides a better overview. But even in this view, the highest values ​​for a disease are between 41 and 45 and between 51 and 54.
+The percentage breakdown offers a clearer overview. Even in this view, the highest rates of heart disease are observed among patients aged 41 to 45 and 51 to 54. 
 
-Between 46 and 50 it seems fairly balanced. Between 55 and 63 the numbers for a disease are the lowest. Between 64 and 66 it is more balanced again.
+The age group between 46 and 50 appears relatively balanced, while the numbers for heart disease are lowest among those aged 55 to 63. In the 64 to 66 age range, the data becomes more balanced again.
 
-From the age of 68 onwards, the number of patients who were examined is too small to make a clear statement. The same applies to patients aged 29 to 40. In this range too, there were not even half as many.
+From age 68 onwards, the number of examined patients is too small to draw any definitive conclusions. The same applies to patients aged 29 to 40, as there were fewer than half as many in this range.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/4500d671-dc33-4e5c-b922-62e0b063d4c5">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/80a8b65f-17d0-49aa-8499-8ece94511e5f">
 
-A total of 312 women and 713 men were examined. Over 72% of women were diagnosed with heart disease. For men, the figure was less than 43%.
+A total of 312 women and 713 men were examined. Over 72% of the women were diagnosed with heart disease, while the figure for men was less than 43%.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/42a9d376-2c96-4c5b-a077-5735c5275c92">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a6db1803-07e3-45e9-bdec-906bdc409258">
