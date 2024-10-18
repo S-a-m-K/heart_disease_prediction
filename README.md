@@ -121,13 +121,13 @@ Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/
 
 1. Divide [blood pressure](https://swissheart.ch/so-bleiben-sie-gesund/gesund-leben/blutdruck) values ​​into groups
    
-3. Divide [cholesterol](https://www.netdoktor.ch/laborwerte/cholesterinwerte/#:~:text=Wenn%20das%20Gesamt%2DCholesterin%20bei,6%2C21%20mmol%2Fl) levels into groups
+2. Divide [cholesterol](https://www.netdoktor.ch/laborwerte/cholesterinwerte/#:~:text=Wenn%20das%20Gesamt%2DCholesterin%20bei,6%2C21%20mmol%2Fl) levels into groups
+
+3. Remove Maximum Heart Rate Column: According to the [Fox formula](https://www.akademie-sport-gesundheit.de/magazin/maximale-herzfrequenz.html), all patients except one would have an excessively high maximum heart rate. However, since maximum heart rate is influenced by several factors beyond age—such as genetics, size, training level, and altitude—and this information is unfortunately unavailable, this column is not useful, so I have removed it.
    
-5. Remove max heart frequenz - According to the [Fox formula](https://www.akademie-sport-gesundheit.de/magazin/maximale-herzfrequenz.html), all patients except one would have a maximum heart rate that is too high. However, since the maximum heart rate depends on many other factors than just age, such as genes, height, training level and altitude, this column is of no use. That's why I've removed it.
-   
-7. Error in the column “number of major vessels” - There is also an error in the column num_of_major_vessel. [Four are described](https://data.world/informatics-edu/heart-disease-prediction). However, there are 5 variables in the column (0-4). For the analysis with this column, I will remove the unnecessary rows. There are a total of 18 rows with 0 values that i have removed.
-   
-9. Another error with "thal" - Here too, there is one more variable than [stated](https://data.world/informatics-edu/heart-disease-prediction). For the analysis with this column, I will remove the unnecessary rows. There are a total of 7 rows with zero values ​​that I have removed.
+4. Error in the 'Number of Major Vessels' Column: There is an issue with the 'num_of_major_vessels' column. Although the data description states that there are [four major vessels](https://data.world/informatics-edu/heart-disease-prediction), this column contains five possible values (0-4). To address this inconsistency, I will remove the unnecessary rows. In total, I have removed 18 rows with a value of 0.
+
+5. Another Error with 'Thal': Similarly, there is one additional variable in the 'thal' column than what is [stated](https://data.world/informatics-edu/heart-disease-prediction). To address this issue, I will remove the unnecessary rows. In total, I have removed 7 rows with a value of zero.
 
 <div style="margin-bottom: 40px;">
 
