@@ -8,9 +8,11 @@
 
 # **Introduction**
 
-This is a data set used to predict heart disease.
+According to the World Health Organization, despite significant advances in diagnosis and treatment, mortality from heart disease remains the leading cause of death worldwide, accounting for about one-third of annual deaths [1]. “Heart disease” is a general term used to describe a group of heart conditions and diseases, including Coronary Artery Disease, Arrhythmia, Heart Valve Disease, and Heart Failure, which cause the heart not to pump blood healthily.
 
-The data is from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them.
+The most common type of heart disease is Coronary Artery Disease. The disease is a medical condition in which the coronary arteries that supply blood to the heart muscle become narrowed or blocked due to plaque build-up on their inner walls. This can lead to serious complications such as a heart attack, heart failure, and arrhythmias, as it reduces blood flow to the heart muscle. In some cases, procedures such as angioplasty or bypass surgery may be necessary to improve blood flow to the heart.
+
+The second common heart disease is Arrhythmia. Arrhythmia is caused by disturbances in the normal electrical activity of the heart. The normal beating rhythm of the heart is disrupted because the electrical impulses in the heart responsible for synchronizing the heartbeat are not working properly. As a result, the heartbeat may be faster, slower, or more irregular than normal. Millions of people worldwide are affected by Arrhythmia[National Library of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC10378171/). 
 
 ---
 
@@ -49,15 +51,15 @@ Examine the dataset to gain insights that could aid in developing preventive mea
 
 ### **Data Source**
 
-This dataset comes from the University of California Irvine data repository and is used to predict heart disease. This database contains 76 attributes, but all published experiments involve using a subset of 14 of them. Notably, the Cleveland database is the only one used by ML researchers to date. One file has been "processed," that being the one with the Cleveland database. All four unprocessed files are also present in this directory.
+This dataset, sourced from the University of California Irvine data repository, is used for predicting heart disease. It contains 76 attributes, though all published studies focus on a subset of 14. Notably, the Cleveland database is the only one extensively used by machine learning researchers so far. While one processed file (the Cleveland database) is available, all four original unprocessed files are also included in this directory. 
 
-A stripped down version of the dataset is available on [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data) for public use.
+A simplified version of the dataset is also publicly accessible on [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data).
 
 **Additional information:**
 
-If a coronary artery was narrowed by more than 50%, they were assigned heart disease.
+Patients were classified as having heart disease if a coronary artery was narrowed by more than 50%.
 
-Patients' names and social security numbers were removed from the database and replaced with dummy values.
+For privacy reasons, the patients' names and social security numbers were removed from the database and replaced with dummy values.
 
 **Source**: Data provided by the University of California Irvine
 
