@@ -165,37 +165,35 @@ A total of 312 women and 713 men were examined. Over 72% of the women were diagn
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/42a9d376-2c96-4c5b-a077-5735c5275c92">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a6db1803-07e3-45e9-bdec-906bdc409258">
 
-
-Of the patients with typical anginal chest pain, about 1/4 also suffered from heart disease. In atypical anginal pain, over 80% were diagnosed with heart disease. In non-anginal pain, over 77% had heart disease and in asymptomatic pain, it was 2/3.
+Among patients with typical anginal chest pain, approximately one-quarter were also diagnosed with heart disease. In cases of atypical anginal pain, over 80% received a heart disease diagnosis. Additionally, more than 77% of patients with non-anginal pain had heart disease, while two-thirds of those with asymptomatic pain were also affected.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a3c7a220-054a-4021-b825-bc49d463b9fc">
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/180eb463-5410-48df-b8d2-e244b735f1b3">
 
+Broken down by gender, over 40% of women with typical anginal chest pain were diagnosed with heart disease. For the other types of chest pain, the probability of having heart disease ranges from 78% to 100%.
 
-Broken down by gender, over 40% of women with typical angina chest pain have heart disease. For the other types of chest pain, the probability of heart disease is between 78 and 100 percent.
-
-For men, it is not quite as devastating. For typical anginal chest pain, it is comparatively only 17%. But the probability of heart disease also increases dramatically with the other types of chest pain. There the probability is between 59 and 76 percent.
+For men, the situation is less severe. For those with typical anginal chest pain, the diagnosis rate is comparatively low at only 17%. However, the probability of having heart disease increases significantly with the other types of chest pain, ranging from 59% to 76%.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0dc2a689-0942-491f-9a6d-ce9f98c2b8e5">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/8e1d3749-9679-40b9-9569-837f9b9caaeb">
 
-If you look at the patients' blood sugar, the result is rather sobering. Both parties are equally affected. There are also no significant differences between the sexes. Except that women with normal blood sugar levels seem to be more likely to suffer from heart disease. High blood sugar levels alone do not seem to provide any clear predictions.
+The analysis of patients' blood sugar levels yields somewhat sobering results, as both groups are equally affected. There are no significant differences between the sexes, except that women with normal blood sugar levels appear to be more likely to suffer from heart disease. High blood sugar levels alone do not seem to offer clear predictive value.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/3009d70c-d2e9-4883-b967-eb93748a4fd5">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0c5eaf10-9332-41aa-8503-c9c0f571a3e7">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/eb2f7689-225a-4239-9974-41e54a55e46f">
 
-Blood pressure alone does not seem to provide a clear prediction. All patients with low blood pressure are classified as having heart disease. But due to the small number, this is not really meaningful. Most patients with severe hypertension do not have heart disease. But here too, the number is too small to make a precise statement.
+Blood pressure alone does not provide a clear prediction of heart disease. All patients with low blood pressure are classified as having heart disease; however, the small sample size makes this finding less meaningful. 
 
-In general, it seems that the number of heart diseases decreases the higher the blood pressure rises.
+Conversely, most patients with severe hypertension do not have heart disease, but again, the limited number of cases prevents us from making a precise assessment.
 
-I also did not find any significant differences when breaking down the sexes.
+Overall, it appears that the incidence of heart disease decreases as blood pressure increases. Additionally, I found no significant differences when analyzing the data by sex.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/9436f946-aee7-48ef-9c2e-dfa6d76090e8">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/466b0165-9541-4fb2-865d-cfb547b8e852">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/bd041879-dee2-4213-96ea-3f4b6733008f">
 
-The first thing that is noticeable here is that most patients have high cholesterol levels. In percentage terms, there are no significant differences in measured heart disease. Patients with measured hypercholesterolemia appear to be less affected by heart disease.
+The most striking observation is that most patients have high cholesterol levels. In terms of percentages, there are no significant differences in the prevalence of heart disease. Interestingly, patients with diagnosed hypercholesterolemia seem to be less affected by heart disease.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f07babee-75ad-4e0f-9ba6-dba8d7d8893a">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/965e26e4-e218-413c-ac08-dc02a6313faa">
@@ -207,32 +205,28 @@ An ST-T abnormality on an electrocardiogram (ECG) is known to independently pred
 
 Left ventricular hypertrophy is a thickening of the wall of the heart's main pumping chamber, called the left ventricle. This thickening can increase pressure inside the heart. The disease can make it harder for the heart to pump blood. The most common cause is high blood pressure[(Mayo Clinic)](https://www.mayoclinic.org/diseases-conditions/left-ventricular-hypertrophy/symptoms-causes/syc-20374314#:~:text=Left%20ventricular%20hypertrophy%20is%20a,cause%20is%20high%20blood%20pressure.).
 
-Over 60% of patients who had an ST-T abnormality on the ECG were diagnosed with heart disease.
+Over 60% of patients with ST-T abnormalities on the ECG were diagnosed with heart disease. In contrast, only 20% of patients with left ventricular hypertrophy were classified as having heart disease, although it is important to note that only 15 patients had this condition. A more detailed analysis would require a significantly larger sample size.
 
-20% of patients with left ventricular hypertrophy were classified as having heart disease. It should be noted that only 15 patients had this condition. A more detailed analysis would require many more patients.
-
-But even 40% of patients in whom nothing unusual was found still suffered from heart disease. This shows that this examination alone is not sufficiently informative.
+Additionally, even 40% of patients with no abnormalities found still suffered from heart disease. This underscores that this examination alone is not sufficiently informative.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/799d00d2-6864-4978-8351-21c8d2f69652">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/1f56a82b-abb8-4e10-84a1-e38b87c39916">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a6ef4ed0-3d09-4302-8d2c-25fae5f35aba">
 
-Angina pectoris also does not seem to be a good indicator of early signs of heart disease. In fact, it seems to be the opposite. Only 20% of those who have angina were classified as having heart disease.
+Angina pectoris does not appear to be a reliable indicator of early signs of heart disease; in fact, it seems to indicate the opposite, as only 20% of those with angina were classified as having heart disease.
 
-When it comes to gender, there is a difference between men and women. For women, it is over 32% and for men, just 17%.
+When examining the data by gender, a difference emerges: over 32% of women with angina were diagnosed with heart disease, compared to just 17% of men.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/57daebd0-316a-403d-876a-5a90407158f9">
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/9d0f42bd-4977-40ec-9fc9-7f1785bf0fd0">
 
 ST depression occurs when the J point is displaced below baseline. Just like ST elevation, not all ST depression represents myocardial ischemia or an emergent condition. There are multiple conditions associated with ST depression. Some of these include hypokalemia, cardiac ischemia, and medications such as digitalis[(National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK459364/#:~:text=ST%20depression%20occurs%20when%20the,and%20medications%20such%20as%20digitalis.)
 
-Over 32% of patients were not diagnosed with ST depression. But over 1/3 of them were classified as having heart disease.
+Over 32% of patients were not diagnosed with ST depression, yet more than one-third of them were classified as having heart disease.
 
-The percentage view shows that most patients with heart disease are in the first half of the scale. There are a few outliers, but they are not particularly significant.
+The percentage view indicates that most patients with heart disease fall within the first half of the scale. Although there are a few outliers, they do not appear to be particularly significant.
 
-This comparison alone does not provide any clear results either.
-
-Perhaps we will find clearer results if we look at the ST segment and the resulting course of the wave.
+This comparison alone does not yield clear results either. Perhaps we will uncover more definitive insights by examining the ST segment and the resulting waveforms.
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0e443d35-318e-4aa5-af8d-a4709e8ed285">
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/e21a42c6-7e71-4340-9d06-e321aca113f8">
@@ -241,13 +235,13 @@ The ST segment on an electrocardiogram (ECG) normally represents an electrically
 
 The ST segment encompasses the region between the end of ventricular depolarization and beginning of ventricular repolarization on the ECG. In other words, it corresponds to the area from the end of the QRS complex to the beginning of the T wave. In clinical terms, the ST segment represents the period in which the myocardium maintains contraction to expel blood from the ventricles[(National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK459364/#:~:text=ST%20depression%20occurs%20when%20the,and%20medications%20such%20as%20digitalis.). 
 
-This model provides somewhat clearer results. Over 70% with a downsloping course also had heart disease. For the flat and upsloping course, the figure was between 30 and 40%. It should be noted that only 7.2% had an upsloping course.
+This model yields somewhat clearer results. Over 70% of patients with a downsloping course were diagnosed with heart disease. In contrast, the prevalence for patients with a flat or upsloping course ranged between 30% and 40%. It's important to note that only 7.2% of patients exhibited an upsloping course.
 
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/1ae60a14-9dbf-4d8a-9466-95dcef42a849">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/53cd69cf-3842-43bb-9f54-5cb26ff72cd7">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/f9c398fa-251b-454a-83f8-e078b612a4d7">
 
-By far the majority of treatments were carried out on Major Vessel 0. The treatment was successful in over 56% of the heart patients. In over 11% it was reversible.
+The vast majority of treatments were performed on patients with Major Vessel 0. The treatment was successful in over 56% of heart patients, with more than 11% experiencing reversible conditions.
 
 ### Summary:
 
