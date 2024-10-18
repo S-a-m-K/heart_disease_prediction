@@ -245,31 +245,29 @@ The vast majority of treatments were performed on patients with Major Vessel 0. 
 
 ### Summary:
 
-In summary, according to these studies, the following people are more likely to suffer from heart disease:
+In summary, the following groups are more likely to suffer from heart disease according to these studies:
 
-- People aged between 40 and 45 and between 51 and 54. Ultimately, women and men of all ages are affected, but the peak is highest in these age groups.
+* **Age Groups:** Individuals aged between 40 and 45 and between 51 and 54 are particularly at risk. While both women and men of all ages are affected, the incidence is highest within these age brackets.
 
-- Women are more affected than men. Namely 72%. For men, it is 43%.
+* **Gender Disparity:** Women are more affected than men, with a prevalence of 72% compared to 43% for men.
 
-- Patients with typical anginal chest pain only suffer from heart disease in just under 25% of cases compared to other types of chest pain. For the other types of heart pain, the probability increases to between 66 and 80%.
+* **Chest Pain Types:** Patients with typical anginal chest pain are diagnosed with heart disease in just under 25% of cases, whereas the probability increases to between 66% and 80% for other types of chest pain. Notably, over 43% of women with typical anginal pain have heart disease, compared to just under 18% of men.
 
-- Even with typical anginal pain, over 43% of women suffer from heart disease. For men, it is just under 18%.
+* **Blood Sugar Levels:** The analysis of blood sugar levels does not yield clear predictions, as very few patients exhibited values that were too high.
 
-- The comparison with blood sugar levels does not seem to provide a clear prediction. Very few patients had values ​​that were too high.
+* **Blood Pressure:** Similar to blood sugar, no clear conclusions can be drawn regarding blood pressure. In fact, it appears that the rate of heart disease decreases with increasing blood pressure.
 
-- We do not get any clear results for blood pressure either. It actually seems that the rate of heart disease decreases with increasing blood pressure.
+* **Cholesterol Levels:** Most patients have elevated cholesterol levels; however, no significant differences are observed. Men with higher cholesterol levels seem to be less affected by heart disease.
 
-- Most patients have higher cholesterol levels. But overall, no significant differences can be found. Men with higher levels appear to be less affected.
+* **Electrocardiogram Results:** The resting electrocardiogram provides more definitive results, with 60% of patients exhibiting ST T-wave abnormalities classified as having heart disease. Conversely, patients with left ventricular hypertrophy appear to be less affected.
 
-- The resting electrocardiogram, on the other hand, provides better results. 60% with an ST T-wave abnormality were classified as having heart disease. Patients with left ventricular hypertrophy appear to be less affected.
+* **Angina Pectoris:** Angina pectoris is not a reliable indicator of heart disease, which aligns with findings from the comparison of heart pain types.
 
-- Angina pectoris, on the other hand, is not a clear indicator. But this was already established when comparing the types of heart pain.
+* **ST Depression Values:** The ST depression values do not provide satisfactory results, as most patients with heart disease did not exhibit fluctuations.
 
-- The ST depression values ​​do not provide satisfactory results either, since most patients with heart disease did not show any fluctuation.
+* **ST Segment Course:** The analysis of the ST segment course offers clearer predictions, with over 70% of patients exhibiting a downsloping course being diagnosed with heart disease.
 
-- The course of the ST segment appears to provide a clearer prediction. Over 70% with a downsloping course have heart disease.
-
-- Vessel 0 was the most affected. The treatment was largely successful.
+* **Treatment Outcomes:** Major Vessel 0 was the most affected area, and treatments were largely successful.
 
 # **Act**
 
