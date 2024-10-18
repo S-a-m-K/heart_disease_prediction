@@ -57,9 +57,9 @@ A simplified version of the dataset is also publicly accessible on [kaggle](http
 
 **Additional information:**
 
-Patients were classified as having heart disease if a coronary artery was narrowed by more than 50%.
+Patients were classified as having heart disease if a coronary artery was narrowed by more than 50%. 
 
-For privacy reasons, the patients' names and social security numbers were removed from the database and replaced with dummy values.
+To protect privacy, patients' names and social security numbers were removed from the database and replaced with anonymized values.
 
 **Source**: Data provided by the University of California Irvine
 
@@ -79,9 +79,9 @@ For privacy reasons, the patients' names and social security numbers were remove
 
 * **Reliable and Original**: The data comes from the University of California Irvine
 
-* **Comprehensive**: Some of the data sets are suitable for analysis. For better predictions, information such as weight, smoking status, exercise level and detailed cholesterol values ​​would be beneficial.
+* **Comprehensive**: While some of the datasets are suitable for analysis, additional information such as weight, smoking habits, physical activity, and detailed cholesterol levels would be valuable for making better predictions.
 
-* **Current**: The data is from 1988 and is therefore not current. Given today's level of knowledge, more information could be collected on this topic.
+* **Current**: The data dates back to 1988 and is therefore not current. With today's level of knowledge, more comprehensive information could be collected on this topic.
 
 * **Cited**: Original: [UC Irvine](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
