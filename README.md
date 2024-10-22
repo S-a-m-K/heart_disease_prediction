@@ -100,29 +100,29 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 1. Get a first look at the individual columns
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/145aaf97-4640-44f8-97f3-e8e9c89f3214">
 
-<br>
+<br><br>
 
 2. Explanation of the columns
 <img width="609" alt="image" src="https://github.com/user-attachments/assets/786eb8b4-410c-4f3c-8db7-693da2e79aab">
 
-<br>
+<br><br>
 
 3. I will rename the columns for easier understanding
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/b1107a68-0db8-4137-add5-ce00c2acf720">
 
-<br>
+<br><br>
 
 4. Decoding cell values for better understanding
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/8b9e12b4-30ec-4461-b319-26b5ef2c87e5">
 
-<br>
+<br><br>
 
 5. Check the dataset for null values, empty cells, and unrealistic values
 <img width="651" alt="image" src="https://github.com/user-attachments/assets/a57195c0-9fca-4542-be50-511123df98c1">
 
 I found no null values or empty cells, and the information appears realistic. However, two columns contain one additional value beyond what is specified. To analyze these columns, I will remove the rows with the unspecified values.
 
-<br>
+<br><br>
 
 ### Data cleansing
 
