@@ -149,12 +149,14 @@ The data has been cleaned, unusable columns removed, and variables grouped into 
 
 <br>
 
+### **Number of patients by age**
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/7b15bf60-3115-485f-95b5-546fbe9d8f70">
 
 This dataset contains information from a total of 1,025 patients, with ages ranging from 29 to 77. The majority of the patients are between 40 and 67 years old, with the most common age being 58.
 
 <br>
 
+### **Number of patients by age**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
@@ -163,6 +165,7 @@ Most patients diagnosed with heart disease were between the ages of 40 and 45, a
 
 <br>
 
+### **Percentag distribution of heart diesease by age**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
 
 The percentage breakdown offers a clearer overview. Even in this view, the highest rates of heart disease are observed among patients aged 41 to 45 and 51 to 54. 
