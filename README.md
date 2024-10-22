@@ -45,6 +45,7 @@ Examine the dataset to gain insights that could aid in developing preventive mea
 - Is there a relationship between the various risk factors and heart attack outcomes?
 - Can the insights gained be used in the future to reduce heart attack risk in this population?
 
+<br>
 
 # **Prepare**
 
@@ -71,9 +72,7 @@ To protect privacy, patients' names and social security numbers were removed fro
 
 **Duration**: Data is from 1988
 
-<div style="margin-bottom: 40px;">
-
-</div>
+<br>
 
 ### **Confirmation of the ROCCC-Process**
 
@@ -85,9 +84,7 @@ To protect privacy, patients' names and social security numbers were removed fro
 
 * **Cited**: Original: [UC Irvine](https://archive.ics.uci.edu/dataset/45/heart+disease)
 
-<div style="margin-bottom: 40px;">
-
-</div>
+<br>
 
 # **Process**
 
@@ -129,9 +126,7 @@ Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/
 
 5. Another Error with 'Thal': Similarly, there is one additional variable in the 'thal' column than what is [stated](https://data.world/informatics-edu/heart-disease-prediction). To address this issue, I will remove the unnecessary rows. In total, I have removed 7 rows with a value of zero.
 
-<div style="margin-bottom: 40px;">
-
-</div>
+<br>
 
 # **Analysing and Share**
 
@@ -243,6 +238,8 @@ This model yields somewhat clearer results. Over 70% of patients with a downslop
 
 The vast majority of treatments were performed on patients with Major Vessel 0. The treatment was successful in over 56% of heart patients, with more than 11% experiencing reversible conditions.
 
+<br>
+
 ### Summary:
 
 In summary, the following groups are more likely to suffer from heart disease according to these studies:
@@ -268,6 +265,8 @@ In summary, the following groups are more likely to suffer from heart disease ac
 * **ST Segment Course:** The analysis of the ST segment course offers clearer predictions, with over 70% of patients exhibiting a downsloping course being diagnosed with heart disease.
 
 * **Treatment Outcomes:** Major Vessel 0 was the most affected area, and treatments were largely successful.
+
+<br>
 
 # **Act**
 
