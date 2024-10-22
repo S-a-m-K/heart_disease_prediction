@@ -149,14 +149,13 @@ The data has been cleaned, unusable columns removed, and variables grouped into 
 
 <br>
 
-### **Number of patients by age**
+### **Age**
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/7b15bf60-3115-485f-95b5-546fbe9d8f70">
 
 This dataset contains information from a total of 1,025 patients, with ages ranging from 29 to 77. The majority of the patients are between 40 and 67 years old, with the most common age being 58.
 
 <br>
 
-### **Number of heart disease by age**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
@@ -165,7 +164,6 @@ Most patients diagnosed with heart disease were between the ages of 40 and 45, a
 
 <br>
 
-### **Percentage distribution of heart diesease by age**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
 
 The percentage breakdown offers a clearer overview. Even in this view, the highest rates of heart disease are observed among patients aged 41 to 45 and 51 to 54. 
@@ -176,6 +174,7 @@ From age 68 onwards, the number of examined patients is too small to draw any de
 
 <br>
 
+### **Gender**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/4500d671-dc33-4e5c-b922-62e0b063d4c5">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/80a8b65f-17d0-49aa-8499-8ece94511e5f">
 
@@ -183,6 +182,7 @@ A total of 312 women and 713 men were examined. Over 72% of the women were diagn
 
 <br>
 
+### **Chest pain types**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/42a9d376-2c96-4c5b-a077-5735c5275c92">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a6db1803-07e3-45e9-bdec-906bdc409258">
 
@@ -199,6 +199,7 @@ For men, the situation is less severe. For those with typical anginal chest pain
 
 <br>
 
+### **Blood sugar**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0dc2a689-0942-491f-9a6d-ce9f98c2b8e5">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/8e1d3749-9679-40b9-9569-837f9b9caaeb">
 
@@ -206,6 +207,7 @@ The analysis of patients' blood sugar levels yields somewhat sobering results, a
 
 <br>
 
+### **Blood pressure**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/3009d70c-d2e9-4883-b967-eb93748a4fd5">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0c5eaf10-9332-41aa-8503-c9c0f571a3e7">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/eb2f7689-225a-4239-9974-41e54a55e46f">
@@ -218,6 +220,7 @@ Overall, it appears that the incidence of heart disease decreases as blood press
 
 <br>
 
+### **Cholesterol**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/9436f946-aee7-48ef-9c2e-dfa6d76090e8">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/466b0165-9541-4fb2-865d-cfb547b8e852">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/bd041879-dee2-4213-96ea-3f4b6733008f">
@@ -226,6 +229,7 @@ The most striking observation is that most patients have high cholesterol levels
 
 <br>
 
+### **Resting electrocardiogram**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f07babee-75ad-4e0f-9ba6-dba8d7d8893a">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/965e26e4-e218-413c-ac08-dc02a6313faa">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/6260e667-84f8-42ca-a64d-e2bb3fd300c4">
@@ -242,6 +246,7 @@ Additionally, even 40% of patients with no abnormalities found still suffered fr
 
 <br>
 
+### **Angina pectoris**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/799d00d2-6864-4978-8351-21c8d2f69652">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/1f56a82b-abb8-4e10-84a1-e38b87c39916">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a6ef4ed0-3d09-4302-8d2c-25fae5f35aba">
@@ -252,6 +257,7 @@ When examining the data by gender, a difference emerges: over 32% of women with 
 
 <br>
 
+### **ST depression**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/57daebd0-316a-403d-876a-5a90407158f9">
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/9d0f42bd-4977-40ec-9fc9-7f1785bf0fd0">
 
@@ -265,6 +271,7 @@ This comparison alone does not yield clear results either. Perhaps we will uncov
 
 <br>
 
+### **Peak ST segment**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0e443d35-318e-4aa5-af8d-a4709e8ed285">
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/e21a42c6-7e71-4340-9d06-e321aca113f8">
 
@@ -276,6 +283,7 @@ This model yields somewhat clearer results. Over 70% of patients with a downslop
 
 <br>
 
+### **Major vessels**
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/1ae60a14-9dbf-4d8a-9466-95dcef42a849">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/53cd69cf-3842-43bb-9f54-5cb26ff72cd7">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/f9c398fa-251b-454a-83f8-e078b612a4d7">
