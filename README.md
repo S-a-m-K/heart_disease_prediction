@@ -165,7 +165,7 @@ Most patients diagnosed with heart disease were between the ages of 40 and 45, a
 
 <br>
 
-### **Percentag distribution of heart diesease by age**
+### **Percentage distribution of heart diesease by age**
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
 
 The percentage breakdown offers a clearer overview. Even in this view, the highest rates of heart disease are observed among patients aged 41 to 45 and 51 to 54. 
