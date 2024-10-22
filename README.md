@@ -147,15 +147,21 @@ For the data visualization process "Analysing" and "Share" I use also Excel
 
 The data has been cleaned, unusable columns removed, and variables grouped into new columns for better clarity. The data is now ready for analysis, and I will investigate whether there are any patterns that could indicate a potential risk of heart disease.
 
+<br>
+
 <img width="885" alt="image" src="https://github.com/user-attachments/assets/7b15bf60-3115-485f-95b5-546fbe9d8f70">
 
 This dataset contains information from a total of 1,025 patients, with ages ranging from 29 to 77. The majority of the patients are between 40 and 67 years old, with the most common age being 58.
+
+<br>
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
 
 Most patients diagnosed with heart disease were between the ages of 40 and 45, as well as between 51 and 54. However, the results might differ if the age groups were more balanced. In contrast, the majority of patients who were not diagnosed with heart disease were aged between 57 and 63.
+
+<br>
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/bf402396-c3ab-411f-95da-9d4fafe5ae94">
 
@@ -165,15 +171,21 @@ The age group between 46 and 50 appears relatively balanced, while the numbers f
 
 From age 68 onwards, the number of examined patients is too small to draw any definitive conclusions. The same applies to patients aged 29 to 40, as there were fewer than half as many in this range.
 
+<br>
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/4500d671-dc33-4e5c-b922-62e0b063d4c5">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/80a8b65f-17d0-49aa-8499-8ece94511e5f">
 
 A total of 312 women and 713 men were examined. Over 72% of the women were diagnosed with heart disease, while the figure for men was less than 43%.
 
+<br>
+
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/42a9d376-2c96-4c5b-a077-5735c5275c92">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a6db1803-07e3-45e9-bdec-906bdc409258">
 
 Among patients with typical anginal chest pain, approximately one-quarter were also diagnosed with heart disease. In cases of atypical anginal pain, over 80% received a heart disease diagnosis. Additionally, more than 77% of patients with non-anginal pain had heart disease, while two-thirds of those with asymptomatic pain were also affected.
+
+<br>
 
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a3c7a220-054a-4021-b825-bc49d463b9fc">
 <img width="908" alt="image" src="https://github.com/user-attachments/assets/180eb463-5410-48df-b8d2-e244b735f1b3">
@@ -182,10 +194,14 @@ Broken down by gender, over 40% of women with typical anginal chest pain were di
 
 For men, the situation is less severe. For those with typical anginal chest pain, the diagnosis rate is comparatively low at only 17%. However, the probability of having heart disease increases significantly with the other types of chest pain, ranging from 59% to 76%.
 
+<br>
+
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0dc2a689-0942-491f-9a6d-ce9f98c2b8e5">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/8e1d3749-9679-40b9-9569-837f9b9caaeb">
 
 The analysis of patients' blood sugar levels yields somewhat sobering results, as both groups are equally affected. There are no significant differences between the sexes, except that women with normal blood sugar levels appear to be more likely to suffer from heart disease. High blood sugar levels alone do not seem to offer clear predictive value.
+
+<br>
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/3009d70c-d2e9-4883-b967-eb93748a4fd5">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/0c5eaf10-9332-41aa-8503-c9c0f571a3e7">
@@ -197,11 +213,15 @@ Conversely, most patients with severe hypertension do not have heart disease, bu
 
 Overall, it appears that the incidence of heart disease decreases as blood pressure increases. Additionally, I found no significant differences when analyzing the data by sex.
 
+<br>
+
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/9436f946-aee7-48ef-9c2e-dfa6d76090e8">
 <img width="911" alt="image" src="https://github.com/user-attachments/assets/466b0165-9541-4fb2-865d-cfb547b8e852">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/bd041879-dee2-4213-96ea-3f4b6733008f">
 
 The most striking observation is that most patients have high cholesterol levels. In terms of percentages, there are no significant differences in the prevalence of heart disease. Interestingly, patients with diagnosed hypercholesterolemia seem to be less affected by heart disease.
+
+<br>
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f07babee-75ad-4e0f-9ba6-dba8d7d8893a">
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/965e26e4-e218-413c-ac08-dc02a6313faa">
@@ -217,6 +237,8 @@ Over 60% of patients with ST-T abnormalities on the ECG were diagnosed with hear
 
 Additionally, even 40% of patients with no abnormalities found still suffered from heart disease. This underscores that this examination alone is not sufficiently informative.
 
+<br>
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/799d00d2-6864-4978-8351-21c8d2f69652">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/1f56a82b-abb8-4e10-84a1-e38b87c39916">
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/a6ef4ed0-3d09-4302-8d2c-25fae5f35aba">
@@ -224,6 +246,8 @@ Additionally, even 40% of patients with no abnormalities found still suffered fr
 Angina pectoris does not appear to be a reliable indicator of early signs of heart disease; in fact, it seems to indicate the opposite, as only 20% of those with angina were classified as having heart disease.
 
 When examining the data by gender, a difference emerges: over 32% of women with angina were diagnosed with heart disease, compared to just 17% of men.
+
+<br>
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/57daebd0-316a-403d-876a-5a90407158f9">
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/9d0f42bd-4977-40ec-9fc9-7f1785bf0fd0">
@@ -236,6 +260,8 @@ The percentage view indicates that most patients with heart disease fall within 
 
 This comparison alone does not yield clear results either. Perhaps we will uncover more definitive insights by examining the ST segment and the resulting waveforms.
 
+<br>
+
 <img width="909" alt="image" src="https://github.com/user-attachments/assets/0e443d35-318e-4aa5-af8d-a4709e8ed285">
 <img width="868" alt="image" src="https://github.com/user-attachments/assets/e21a42c6-7e71-4340-9d06-e321aca113f8">
 
@@ -244,6 +270,8 @@ The ST segment on an electrocardiogram (ECG) normally represents an electrically
 The ST segment encompasses the region between the end of ventricular depolarization and beginning of ventricular repolarization on the ECG. In other words, it corresponds to the area from the end of the QRS complex to the beginning of the T wave. In clinical terms, the ST segment represents the period in which the myocardium maintains contraction to expel blood from the ventricles[(National Library of Medicine)](https://www.ncbi.nlm.nih.gov/books/NBK459364/#:~:text=ST%20depression%20occurs%20when%20the,and%20medications%20such%20as%20digitalis.). 
 
 This model yields somewhat clearer results. Over 70% of patients with a downsloping course were diagnosed with heart disease. In contrast, the prevalence for patients with a flat or upsloping course ranged between 30% and 40%. It's important to note that only 7.2% of patients exhibited an upsloping course.
+
+<br>
 
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/1ae60a14-9dbf-4d8a-9466-95dcef42a849">
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/53cd69cf-3842-43bb-9f54-5cb26ff72cd7">
