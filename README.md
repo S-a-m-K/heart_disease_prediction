@@ -27,7 +27,7 @@ The second common heart disease is Arrhythmia. Arrhythmia is caused by disturban
 - [Process](#Process)
   - [Data Exploration](#Data-Exploration)
   - [Observations](#Observations)
-  - [Data Cleaning](#Data-Cleaning)
+  - [Data Cleansing](#Data-Cleaning)
 - [Analysing and Share](#Analysing-and-Share)
   - [Summary](#Summary)
 - [Act](#Act)
@@ -125,7 +125,7 @@ I found no null values or empty cells, and the information appears realistic. Ho
 
 ### Data cleansing
 
-Excel: [Data cleaning](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/02.%20Data%20Cleaning.xlsx)
+Excel: [Data cleansing](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/02.%20Data%20Cleaning.xlsx)
 
 1. Divide [blood pressure](https://swissheart.ch/so-bleiben-sie-gesund/gesund-leben/blutdruck) values ​​into groups
    
