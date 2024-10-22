@@ -89,7 +89,9 @@ To protect privacy, patients' names and social security numbers were removed fro
 # **Process**
 
 Given the smaller size of the dataset, I chose to perform the cleansing, analysis, and visualization using Excel.
- 
+
+### Data Exploration:
+
 Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/01.%20Data%20Exploration.xlsx)
 
 <br>
