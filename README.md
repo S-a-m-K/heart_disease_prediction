@@ -27,7 +27,7 @@ The second common heart disease is Arrhythmia. Arrhythmia is caused by disturban
 - [Process](#Process)
   - [Data Exploration](#Data-Exploration)
   - [Observations](#Observations)
-  - [Data Cleansing](#Data-Cleaning)
+  - [Data Cleansing](#Data-Cleansing)
 - [Analysing and Share](#Analysing-and-Share)
   - [Summary](#Summary)
 - [Act](#Act)
