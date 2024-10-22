@@ -93,6 +93,8 @@ Given the smaller size of the dataset, I chose to perform the cleaning, analysis
 ### Data Exploration
 Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/01.%20Data%20Exploration)  
 
+<br><br>
+
 ### Observations:
 
 1. Get a first look at the individual columns
@@ -103,7 +105,7 @@ Excel: [Data Exploration](https://github.com/S-a-m-K/heart_disease_prediction/bl
 2. Explanation of the columns
 <img width="609" alt="image" src="https://github.com/user-attachments/assets/786eb8b4-410c-4f3c-8db7-693da2e79aab">
 
-<br><br>
+<br>
 
 3. I will rename the columns for easier understanding
 <img width="876" alt="image" src="https://github.com/user-attachments/assets/b1107a68-0db8-4137-add5-ce00c2acf720">
