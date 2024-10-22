@@ -156,7 +156,7 @@ This dataset contains information from a total of 1,025 patients, with ages rang
 
 <br>
 
-### **Number of patients by age**
+### **Number of heart disease by age**
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/f42eafb9-09f6-4bf7-8413-4f9348b4437f">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/71828fe3-0893-4cfe-a350-0c8f79490c67">
