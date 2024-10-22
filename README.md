@@ -29,9 +29,20 @@ The second common heart disease is Arrhythmia. Arrhythmia is caused by disturban
   - [Observations](#Observations)
   - [Data Cleansing](#Data-Cleansing)
 - [Analysing and Share](#Analysing-and-Share)
-  - [Summary](#Summary)
+  - [Age](#Age)
+  - [Gender](#Gender)
+  - [Chest pain types](#Chest-pain-types)
+  - [Blood sugar](#Blood-sugar)
+  - [Blood pressure](#Blood-pressure)
+  - [Cholesterol](#Cholesterol)
+  - [Resting electrocardiogram](#Resting-electrocardiogram)
+  - [Angina pectoris](#Angina-pectoris)
+  - [ST depression](#ST-depression)
+  - [Peak ST segment](#Peak-ST-segment)
+  - [Major vessels](#Major-vessels)
+- [Summary](#Summary)
 - [Act](#Act)
-
+    
 ---
 
 # **Ask**
