@@ -8,11 +8,10 @@
 
 # **Introduction**
 
-<p align="center">
 According to the World Health Organization, despite significant advances in diagnosis and treatment, mortality from heart disease remains the leading cause of death worldwide, accounting for about one-third of annual deaths. “Heart disease” is a general term used to describe a group of heart conditions and diseases, including Coronary Artery Disease, Arrhythmia, Heart Valve Disease, and Heart Failure, which cause the heart not to pump blood healthily.
-<p align="center">
+
 The most common type of heart disease is Coronary Artery Disease. The disease is a medical condition in which the coronary arteries that supply blood to the heart muscle become narrowed or blocked due to plaque build-up on their inner walls. This can lead to serious complications such as a heart attack, heart failure, and arrhythmias, as it reduces blood flow to the heart muscle. In some cases, procedures such as angioplasty or bypass surgery may be necessary to improve blood flow to the heart.
-<p align="center">
+
 The second common heart disease is Arrhythmia. Arrhythmia is caused by disturbances in the normal electrical activity of the heart. The normal beating rhythm of the heart is disrupted because the electrical impulses in the heart responsible for synchronizing the heartbeat are not working properly. As a result, the heartbeat may be faster, slower, or more irregular than normal. Millions of people worldwide are affected by Arrhythmia [(National Library of Medicine)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10378171/). 
 
 ---
@@ -141,9 +140,9 @@ I found no null values or empty cells, and the information appears realistic. Ho
 
 Excel: [Data cleansing](https://github.com/S-a-m-K/heart_disease_prediction/blob/main/02.%20Data%20Cleaning.xlsx)
 
-1. Divide [blood pressure](https://swissheart.ch/so-bleiben-sie-gesund/gesund-leben/blutdruck) values ​​into groups
+1. Divide [blood pressure](https://swissheart.ch/so-bleiben-sie-gesund/gesund-leben/blutdruck) values ​​into groups.
    
-2. Divide [cholesterol](https://www.netdoktor.ch/laborwerte/cholesterinwerte/#:~:text=Wenn%20das%20Gesamt%2DCholesterin%20bei,6%2C21%20mmol%2Fl) levels into groups
+2. Divide [cholesterol](https://www.netdoktor.ch/laborwerte/cholesterinwerte/#:~:text=Wenn%20das%20Gesamt%2DCholesterin%20bei,6%2C21%20mmol%2Fl) levels into groups.
 
 3. Remove Maximum Heart Rate Column: According to the [Fox formula](https://www.akademie-sport-gesundheit.de/magazin/maximale-herzfrequenz.html), all patients except one would have an excessively high maximum heart rate. However, since maximum heart rate is influenced by several factors beyond age—such as genetics, size, training level, and altitude—and this information is unfortunately unavailable, this column is not useful, so I have removed it.
    
@@ -155,7 +154,7 @@ Excel: [Data cleansing](https://github.com/S-a-m-K/heart_disease_prediction/blob
 
 # **Analysing and Share**
 
-For the data visualization process "Analysing" and "Share" I use also Excel
+For the data visualization process "Analysing" and "Share" I use also Excel.
 
 The data has been cleaned, unusable columns removed, and variables grouped into new columns for better clarity. The data is now ready for analysis, and I will investigate whether there are any patterns that could indicate a potential risk of heart disease.
 
@@ -340,4 +339,4 @@ I recommend an early routine examination for the following groups of people:
 * Women, who are particularly affected
 * Individuals experiencing atypical angina pain
 * Women with typical angina chest pain
-* Individuals connected to an ECG, especially if a downsloaping course of the ST peak is observed, as this may indicate a potential heart condition.
+* Individuals connected to an ECG, especially if a downsloaping course of the ST peak is observed, as this may indicate a potential heart condition
